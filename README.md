@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Estudias los [patrones de diseño de shaders](http://visualcomputing.github.io/Shaders/#/4).
+Estudiar los [patrones de diseño de shaders](http://visualcomputing.github.io/Shaders/#/4).
 
 ## Tarea
 
