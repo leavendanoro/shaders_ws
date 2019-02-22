@@ -13,7 +13,7 @@ Escoja una de las siguientes dos:
 
 ## Integrantes
 
-Máximo dos.
+Máximo tres.
 
 Complete la tabla:
 
@@ -21,6 +21,10 @@ Complete la tabla:
 |------------|-------------|
 |            |             |
 
+## Informe
+
+(elabore en este sección un informe del ejercicio realizado)
+
 ## Entrega
 
-Por definir...
+Fecha límite Domingo 10/3/19 a las 24h.
