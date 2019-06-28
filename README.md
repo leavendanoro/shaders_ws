@@ -24,4 +24,4 @@ Complete la tabla:
 
 ## Entrega
 
-Fecha límite Lunes 1/7/19 a las 24h.
+Fecha límite ~~Lunes 1/7/19~~ Domingo 9/7/19 a las 24h.
