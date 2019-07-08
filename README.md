@@ -16,11 +16,13 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Leonardo Avendaño Rocha            |leavendanoro             |
 
 ## Informe
 
-(elabore en este sección un informe del ejercicio realizado)
+En el punto uno se tienen 3 carpetas, la carpeta _p1_ tiene la aplicacion de distintas máscaras de convolución, que se pueden cambiar con los número 1 al 5, en imagen y video sobre una figura de una lata con la medición de cuadros por segundo, en la carpeta _p1_frames_ se tiene la misma implementación pero solo para video en 2D, en la carpeta _video_frame_ se tiene la implementación por software para hacer la comparación.
+
+Para el punto dos se tiene la implementación de distintos tipos de luz. Con la ayuda de la librería nub se puede interactuar con una fuente de luz para modificar la escena.
 
 ## Entrega
 
